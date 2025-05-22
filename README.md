@@ -1,73 +1,62 @@
 # Syed Ghufran Hassan
-## Data Science
-Alt-H1
-------
-------
-Italis with asteric: *Ghufran*
-Ttalic with underscore: _Ghufran_.
-Bold with asteric: **Ghufran**.
-Bold with underscore __Ghufran__.
-Italic & Bold : **Ghufran __Hassan__**.
-~~Ghufrna~~
 
-Some text is:
-```
-Hello
-Hyyy
-Whyyy
-```
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. hhh
+**Aspiring Data Scientist | Machine Learning & AI Enthusiast | Python Developer**
 
-1. First Order List
-2. Second Order List
-..* Unorder list
-1. Another
-..1. Again
-4. Wgy again
+Location: Lahore, Pakistan  
+Email: [ghufranhassansyed@gmail.com](mailto:ghufranhassansyed@gmail.com)  
+Phone: +92 330 2065742
 
-...This is a line...
+---
 
-+ Why plus
-- Why minus
+## Summary
 
-[Github](https://github.com/SyedGhufranHassan/SyedGhufranHassan/edit/main/README.md)
-[Link text](#Data-Science)
+I am an aspiring data scientist with a strong foundation in Python programming, machine learning, and data analysis. Passionate about leveraging data to solve real-world problems, I specialize in data manipulation, visualization, and predictive modeling. I am eager to contribute to impactful projects in data science, AI, and machine learning, with a proactive approach to continuous learning and development.
 
+---
 
+## Technical Skills
 
-# Section Heading
+- **Languages**: Python  
+- **Libraries & Frameworks**: NumPy, Pandas, Scikit-Learn, TensorFlow, Seaborn, Matplotlib 
+- **Data Handling**: BeautifulSoup, Selenium  
+- **Database**: MySQL  
+- **MLOps Tools**: Git, GitHub, Docker, MLflow
 
-Some body text of this section.
+---
 
-<a name="my-custom-anchor-point"></a>
-Some text I want to provid  
-e a direct link to, but which doesn't have its own heading.
+## Education
 
-Some text I want to provid\
-e a direct link to, but which doesn't have its own heading.
+**BS in Data Science** (8th Semester)  
+Punjab University College of Information Technology, Lahore
 
-Some text I want to provid<br/>
-e a direct link to, but which doesn't have its own heading.
+---
 
-(… more content…)
+## Projects
 
-[A link to that custom anchor](#my-custom-anchor-point)
+### APPLY SMART *(Final Year Project - In Progress)*  
+An automated job application tool that extracts resume data, filters job listings, and auto-fills application forms using large language models (LLMs). Designed to enhance job seekers' efficiency by streamlining the application process.
 
+### CLONE GEN  
+AI-powered clothing design tool that transforms user-uploaded images into personalized fashion designs using deep learning and computer vision.
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+### Loan Default Analysis  
+Analyzed Bank Loan dataset clean data , visualize the data, apply ml models to train it.
 
+### Holiday Price Prediction – *Travel.Com*  
+Developed a predictive model for customer targeting using machine learning, aiming to improve marketing efficiency for a wellness tourism package.
 
-Here is a simple footnote[^1].
+### Bank Customer Churn Prediction  
+Built a deep learning model using TensorFlow and Keras to predict customer churn. Integrated the model into a Streamlit web app for real-time analytics.
 
-A footnote can also have multiple lines[^2].
+---
 
-[^1]: My reference.
-[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
-  This is a second line.
+## Certifications
+
+- **Complete Data Science, Machine Learning, Deep Learning, NLP Bootcamp** - Udemy
+
+---
+
+## Connect
+
+I’m open to data science opportunities and collaborations. Let’s connect and build something impactful together!
+
