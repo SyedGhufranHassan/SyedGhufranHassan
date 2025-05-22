@@ -16,6 +16,12 @@ Hello
 Hyyy
 Whyyy
 ```
+1. First ordered list item
+2. Another item
+⋅⋅* Unordered sub-list. 
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
+4. hhh
 
 1. First Order List
 2. Second Order List
@@ -23,6 +29,8 @@ Whyyy
 1. Another
 ..1. Again
 4. Wgy again
+
 ...This is a line...
+
 + Why plus
 - Why minus
