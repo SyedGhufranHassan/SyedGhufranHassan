@@ -26,14 +26,22 @@ I am an aspiring data scientist with a strong foundation in Python programming, 
 
 ## Education
 
-**BS in Data Science** (8th Semester)  
+**BS in Data Science** 
 Punjab University College of Information Technology, Lahore
+
+---
+
+## Experience
+
+**Associate Software Engineer**
+- **DatumBrain**
+- May,2025 -- Present
 
 ---
 
 ## Projects
 
-### APPLY SMART *(Final Year Project - In Progress)*  
+### APPLY SMART *(Final Year Project)*  
 An automated job application tool that extracts resume data, filters job listings, and auto-fills application forms using large language models (LLMs). Designed to enhance job seekers' efficiency by streamlining the application process.
 
 ### CLONE GEN  
