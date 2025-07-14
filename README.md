@@ -26,7 +26,7 @@ I am an aspiring data scientist with a strong foundation in Python programming, 
 
 ## Experience
 
-**Associate Software Engineer---DatumBrain**
+**Associate Software Engineer @DatumBrain**
 - May,2025 -- Present
 
 ---
