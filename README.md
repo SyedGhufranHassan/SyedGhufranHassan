@@ -1,69 +1,113 @@
 # Syed Ghufran Hassan
 
-**Aspiring Data Scientist | Machine Learning & AI Enthusiast | Python Developer**
+**Associate Software Engineer | Data Scientist | Machine Learning & AI Engineer**
 
-Location: Lahore, Pakistan  
-Email: [ghufranhassansyed@gmail.com](mailto:ghufranhassansyed@gmail.com)  
-Phone: +92 330 2065742
+📍 Lahore, Pakistan  
+📧 ghufranhassansyed@gmail.com  
+📞 +92 330 2065742  
+🔗 [LinkedIn](https://www.linkedin.com/in/syed-ghufran-hassan-903042249/)  
+💻 [GitHub](https://github.com/SyedGhufranHassan)
 
 ---
 
-## Summary
+## Professional Summary
 
-I am an aspiring data scientist with a strong foundation in Python programming, machine learning, and data analysis. Passionate about leveraging data to solve real-world problems, I specialize in data manipulation, visualization, and predictive modeling. I am eager to contribute to impactful projects in data science, AI, and machine learning, with a proactive approach to continuous learning and development.
+Data Scientist and Associate Software Engineer with strong hands-on experience in Python, Machine Learning, Deep Learning, and AI-powered application development. Proven ability to build end-to-end data pipelines, deploy ML models, develop REST APIs, and create LLM-based intelligent systems. Passionate about solving real-world problems using data, automation, and AI.
 
 ---
 
 ## Technical Skills
 
-- **Languages**: Python  
-- **Libraries & Frameworks**: NumPy, Pandas, Scikit-Learn, TensorFlow, Seaborn, Matplotlib 
-- **Data Handling**: BeautifulSoup, Selenium  
-- **Database**: MySQL  
-- **MLOps Tools**: Git, GitHub, Docker, MLflow
+**Programming Languages**  
+- Python, Golang  
+
+**Libraries & Frameworks**  
+- Pandas, NumPy, Scikit-learn, TensorFlow, Keras  
+- Matplotlib, Seaborn  
+- LangChain, OpenAI API  
+- Flask, FastAPI  
+
+**Data & Web Automation**  
+- Selenium, Playwright, BeautifulSoup  
+
+**Databases**  
+- MySQL  
+
+**Tools & Platforms**  
+- Git, GitHub, Docker, MLflow  
+- Linux, VS Code, Postman, Vercel  
+
+**Soft Skills**  
+- Problem Solving, Communication, Time Management, Team Collaboration  
 
 ---
 
-## Experience
+## Professional Experience
 
-**Associate Software Engineer @DatumBrain**
-- May,2025 -- Present
+### Associate Software Engineer — **DatumBrain**
+*May 2025 – Present | Onsite*
 
 ---
 
 ## Education
 
-**BS in Data Science** 
-Punjab University College of Information Technology, Lahore
+### Bachelor of Science in Data Science  
+**Punjab University College of Information Technology (PUCIT), Lahore**  
+*Dec 2021 – Jun 2025*
+
+**Relevant Coursework:**  
+Data Structures, Analysis of Algorithms, Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Operating Systems
 
 ---
 
 ## Projects
 
-### APPLY SMART *(Final Year Project)*  
-An automated job application tool that extracts resume data, filters job listings, and auto-fills application forms using large language models (LLMs). Designed to enhance job seekers' efficiency by streamlining the application process.
+### APPLY SMART — *AI Resume Automation Tool (Final Year Project)*
+- Developed an automated job application system that uploads resumes, extracts key information, filters job listings, and auto-applies using LLM-generated responses.
+- **Tech Stack:** Python, Selenium, Tkinter, LangChain  
 
-### CLONE GEN  
-AI-powered clothing design tool that transforms user-uploaded images into personalized fashion designs using deep learning and computer vision.
+### CloneGen — *AI Clothing Design Tool*
+- Built an AI-powered system that transforms user-uploaded images into personalized clothing designs using deep learning and computer vision techniques.
 
-### Loan Default Analysis  
-Analyzed Bank Loan dataset clean data , visualize the data, apply ml models to train it.
+### Bank Customer Churn Prediction
+- Developed a deep learning ANN model using TensorFlow and Keras to predict customer churn.
+- Deployed a **Streamlit web application** for real-time predictions.
 
-### Holiday Price Prediction – *Travel.Com*  
-Developed a predictive model for customer targeting using machine learning, aiming to improve marketing efficiency for a wellness tourism package.
+### Holiday Package Prediction — *Travel.Com*
+- Built a machine learning model to identify high-potential customers for a wellness tourism package.
+- Improved marketing efficiency and reduced campaign costs.
 
-### Bank Customer Churn Prediction  
-Built a deep learning model using TensorFlow and Keras to predict customer churn. Integrated the model into a Streamlit web app for real-time analytics.
+### Loan Default Prediction
+- Performed data cleaning, EDA, visualization, and ML modeling to predict loan default probability.
+
+### Algerian Forest Fires Prediction
+- Applied regression models to predict forest fire occurrences.
+- Evaluated models using **R² Score** and **MSE**, and saved trained models using Pickle.
+
+### Job Market Data Scraper
+- Developed automated scrapers for platforms like FlexJobs and Glassdoor to extract structured job market data.
+- **Tech Stack:** Python, Selenium, Playwright  
 
 ---
 
 ## Certifications
 
-- **Complete Data Science, Machine Learning, Deep Learning, NLP Bootcamp** - Udemy
+- **Complete Data Science, Machine Learning, Deep Learning & NLP Bootcamp** — Udemy
+
+---
+
+## Technical Expertise
+
+- End-to-end data pipelines: collection, processing, validation, and storage  
+- Data cleaning, transformation, and EDA  
+- Machine Learning & Deep Learning model development  
+- LLM-based application development using LangChain & embeddings  
+- REST API development and deployment  
+- Web scraping from dynamic websites  
 
 ---
 
 ## Connect
 
-I’m open to data science opportunities and collaborations. Let’s connect and build something impactful together!
-
+Open to opportunities in **Data Science, Machine Learning, AI Engineering**, and **Software Engineering**.  
+Let’s collaborate and build impactful solutions 🚀
