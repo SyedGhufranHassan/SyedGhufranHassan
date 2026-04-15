@@ -15,6 +15,7 @@ I’m a Data Scientist who enjoys building real-world AI systems, not just model
 ## 💼 Experience
 
 **Associate Software Engineer — DatumBrain (May 2025 – Present)**
+
 Building and deploying applications, developing backend APIs, and working on AI-powered applications used in real scenarios.
 
 ---
